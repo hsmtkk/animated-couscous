@@ -6,4 +6,5 @@
 // mod black_phone;
 // mod choco_split;
 // mod fan_crypt;
-mod find_top;
+// mod find_top;
+mod gray_scale;
