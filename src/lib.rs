@@ -6,4 +6,6 @@
 // mod black_phone;
 // mod choco_split;
 // mod fan_crypt;
+// mod gray_scale;
+// mod find_top;
 mod net_surf;
