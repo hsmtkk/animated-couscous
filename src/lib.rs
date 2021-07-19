@@ -12,4 +12,5 @@
 // mod mst_evl;
 // mod ball_box;
 // mod struck_out;
-mod dislike_number;
+// mod dislike_number;
+mod rpg_shopping;
