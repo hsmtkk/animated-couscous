@@ -15,4 +15,5 @@
 // mod dislike_number;
 // mod rpg_shopping;
 // mod peace_place;
-mod height_cmp;
+// mod height_cmp;
+mod sale_graph;
