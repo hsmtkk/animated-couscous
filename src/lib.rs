@@ -14,4 +14,5 @@
 // mod struck_out;
 // mod dislike_number;
 // mod rpg_shopping;
-mod peace_place;
+// mod peace_place;
+mod height_cmp;

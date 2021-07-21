@@ -8,5 +8,5 @@ edition = "2018"
 
 [dependencies]
 anyhow = "1.0.41"
-# rust_decimal = "1.14.3"
-# rust_decimal_macros = "1.14.3"
+rust_decimal = "1.14.3"
+rust_decimal_macros = "1.14.3"
