@@ -17,4 +17,5 @@
 // mod peace_place;
 // mod height_cmp;
 // mod sale_graph;
-mod nice_shopping;
+// mod nice_shopping;
+mod right_triangle;
