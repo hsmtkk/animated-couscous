@@ -18,4 +18,5 @@
 // mod height_cmp;
 // mod sale_graph;
 // mod nice_shopping;
-mod right_triangle;
+// mod right_triangle;
+mod orange_category;
