@@ -19,4 +19,5 @@
 // mod sale_graph;
 // mod nice_shopping;
 // mod right_triangle;
-mod orange_category;
+// mod orange_category;
+mod janken;
