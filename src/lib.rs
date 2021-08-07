@@ -21,4 +21,5 @@
 // mod right_triangle;
 // mod orange_category;
 // mod janken;
-mod speed_violation;
+// mod speed_violation;
+mod nation_tax;
