@@ -23,4 +23,5 @@
 // mod janken;
 // mod speed_violation;
 // mod nation_tax;
-mod broken_keyboard;
+// mod broken_keyboard;
+mod sushi_melon;
